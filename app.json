@@ -1,0 +1,28 @@
+{
+    "id": "83e4d26e-44a7-40eb-8588-941a722a3c34",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.44.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Douglas Fabris",
+        "homepage": "https://github.com/dougfabris",
+        "support": "https://github.com/dougfabris/Rocket.Poker/issues"
+    },
+    "languages": [
+        "en"
+    ],
+    "categories": [
+        "team-culture",
+        "productivity",
+        "project-management"
+    ],
+    "documentationUrl": "https://github.com/dougfabris/Rocket.Poker",
+    "name": "Rocket.Poker",
+    "nameSlug": "rocketpoker",
+    "classFile": "RocketPokerApp.ts",
+    "shortDescription": "Collaborative story point estimation using poker planning directly in Rocket.Chat.",
+    "description": "Rocket.Poker helps your team estimate story points using a collaborative voting system directly in Rocket.Chat. Create poker planning sessions as discussions, add stories for estimation, and vote using customizable point scales. Features include closed/open voting modes, visual vote distribution graphs, voter tracking, and flexible voting options.",
+    "implements": [
+        "IUIKitInteractionHandler"
+    ]
+}

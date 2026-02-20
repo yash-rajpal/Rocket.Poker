@@ -1,0 +1,12 @@
+{
+    "poker_session_cmd_description": "Create a new poker planning session",
+    "poker_session_params_example": "[title] - Optional session title",
+    "poker_story_cmd_description": "Create a story for estimation (use inside a session)",
+    "poker_story_params_example": "[title] - Optional story title",
+    "poker_help_cmd_description": "Display help information for Poker Planning",
+    "poker_help_params_example": "",
+    "setting_use_names_label": "Use name attribute to display voters, instead of username",
+    "setting_use_names_description": "When checked, display voters as full user names instead of username",
+    "setting_voting_options_label": "Voting Options",
+    "setting_voting_options_description": "Comma-separated list of voting options for poker planning (e.g., 1,2,3,5,8,13,☕ Coffee)"
+}
