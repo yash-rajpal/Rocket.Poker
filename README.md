@@ -1,4 +1,7 @@
-# Rocket.Poker
+<div align="center">
+    <img width="150" alt="icon" src="https://github.com/user-attachments/assets/fcb52502-d7b1-47bf-a8be-09e8a60f539d" />
+    <h1>Rocket.Poker</h1>
+</div>
 
 Rocket.Poker helps your team estimate story points using a collaborative voting system directly in Rocket.Chat.
 
@@ -59,3 +62,13 @@ rc-apps deploy
 ```
 
 Follow the instructions and when you're done, the app will be installed on your Rocket.Chat server.
+
+## 💝 Support This Project
+
+Rocket.Poker is free and open-source. If it helps your team, consider supporting development:
+
+- ☕ [Buy me a coffee](https://www.paypal.com/donate/?business=LYLM7HAUC8QAQ&no_recurring=0&item_name=If+you+find+Rocket.Poker+useful%2C+consider+buying+me+a+coffee%21&currency_code=USD)
+- ⭐ Star this repository
+- 🐛 Report bugs or suggest features
+
+Every contribution helps keep this project alive!
